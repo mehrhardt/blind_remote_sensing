@@ -25,7 +25,7 @@
 % initialize paths and some fixed parameters
 RS_init;
 
-runs examples from the paper from src/scripts
+% runs examples from the paper from src/scripts
 RS_algorithm_comparison_trees1_shift_5px_disk
 RS_algorithm_comparison_trees2_ch108_NW
 RS_example_blind_v_nonblind
